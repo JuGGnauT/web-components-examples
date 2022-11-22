@@ -1,3 +1,6 @@
+// shadowTree中 使用外部样式！
+// 
+
 // Create a class for the element
 class PopUpInfo extends HTMLElement {
   constructor() {
